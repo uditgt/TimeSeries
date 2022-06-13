@@ -1,8 +1,7 @@
 ## Time-Series modeling
 
 **Notebooks**
-* **Overview**  - introduces general ideas [notebook](https://github.com/uditgt/Data_science_python/blob/main/PCA%20-%20Treasury%20Rates.ipynb)
-  * Seasonal decomposition (trend, seasonality, error); multiplicative vs. additive
+* **Holt-Winters exponential smoothing** - [notebook](https://github.com/uditgt/TimeSeries/blob/main/1.%20HoltWinter.ipynb), [article](https://timeseriesreasoning.com/contents/holt-winters-exponential-smoothing/)
 * WIP
 
 
