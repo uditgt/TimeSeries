@@ -8,4 +8,4 @@
 **Learning Resources:**
 * Udemy [lectures](https://www.udemy.com/course/forecasting-python/)
 * **Forecasting Principles & Practice** [ebook](https://otexts.com/fpp3/)
-* Rob Hyndman's [slides](https://robjhyndman.com/seminars/nyc2018/), [slides2](https://github.com/robjhyndman/ETC3550Slides), [blog](https://robjhyndman.com/), [seminars](https://robjhyndman.com/seminars/)
+* Rob Hyndman's [slides](https://robjhyndman.com/seminars/nyc2018/), [slides2](https://github.com/robjhyndman/ETC3550Slides), [blog](https://robjhyndman.com/), [seminars](https://robjhyndman.com/seminars/), [datacamp](https://app.datacamp.com/learn/courses/forecasting-in-r)
