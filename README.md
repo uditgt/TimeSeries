@@ -34,6 +34,9 @@ Modeled time-series:
 4. **Tensorflow Structural Time Series**
    * Library built on TensorFlow; makes it easy to combine probabilistic models and deep learning. [webpage](https://www.tensorflow.org/probability)
    * Rob Hyndman's [slides](https://robjhyndman.com/nyc2018/3-2-TBATS.pdf)
+   * **Pros/Cons**:
+     * Flexible, good with short-term dynamics, accomodates exogenous regressors, intuitive
+     * Complex model setup, model fitting takes time
    * Notebook including forecasting for weekly Store Footfall data, including comparison with SARIMAX
 5. **Facebook's Prophet**
 
