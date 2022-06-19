@@ -1,6 +1,6 @@
 ## Time-Series modeling
 
-Time Series forecasting for Daily Bike Shares [data](https://www.kaggle.com/datasets/contactprad/bike-share-daily-data), using different approaches. It is a daily time series covering a 2-year period.
+Time Series forecasting for Daily Bike Shares [data](https://www.kaggle.com/datasets/contactprad/bike-share-daily-data), using different approaches. It is a daily time series covering a 2-year period. The challenge is to forecast for the month of Dec-12, which exhibits considerable volatility.
 
 Raw time-series:
 <p align="center">
@@ -11,7 +11,23 @@ Raw time-series:
   >
 </p>
 
-Modeled time-series:
+Modeled time-series - select models:
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+    src="https://github.com/uditgt/TimeSeries/blob/main/assets/DailyBikeSharing%20-%20fitted.png"
+  >
+</p>
+
+Modeled time-series - (naive) ensemble approach:
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+    src="https://github.com/uditgt/TimeSeries/blob/main/assets/DailyBikeSharing%20-%20fitted_ensemble.png"
+  >
+</p>
 
 
 **Modeling Approaches Explored:**
