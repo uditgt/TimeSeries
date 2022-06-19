@@ -25,7 +25,7 @@ Modeled time-series - (naive) ensemble approach:
   <img 
     width="600"
     height="300"
-    src="https://github.com/uditgt/TimeSeries/blob/main/assets/DailyBikeSharing%20-%20fitted_ensemble.png"
+    src="https://github.com/uditgt/TimeSeries/blob/main/assets/DailyBikeSharing%20-%20fit_ensemble.png"
   >
 </p>
 
