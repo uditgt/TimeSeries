@@ -59,7 +59,7 @@ Modeled time-series - (naive) ensemble approach:
       * Seasonality - yearly/ weekly/ daily ... multiplicative/ additive
       * Holiday effect - define the specific day, and 'window' of days around it
     * Pros: Flexible/ customizable, dynamic events, allows regressors, *automatic*, Built-in cross validation and hyperparameter tuning
-6. **XGBoost + Prophet** - 
+6. **[XGBoost + Prophet](https://github.com/uditgt/TimeSeries/blob/main/6.%20XGB%20%2B%20Prophet.ipynb)** - 
    * Stage 1: Fit Prophet model, and take select forecast variables to augment original feature matrix
    * Stage 2: Fit XGBoost Regression model on the updated feature matrix
 
